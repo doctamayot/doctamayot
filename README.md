@@ -1,4 +1,4 @@
-###Hugo Tamayo Rojas
+### Hugo Tamayo Rojas
 
 Soy un desarrollador Full Stack con 4 años de experiencia, especializado en el stack MERN y con un enfoque destacado en React para el desarrollo frontend. Mi trayectoria abarca el ciclo completo de desarrollo de aplicaciones, desde la planificación hasta la implementación, brindando soluciones integrales y eficientes.
 
